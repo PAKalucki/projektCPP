@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "minimal", "minimal.vcxproj", "{58C2299D-A087-4432-AE83-C529B816078C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DLL Debug|Win32 = DLL Debug|Win32
+		DLL Release|Win32 = DLL Release|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C2299D-A087-4432-AE83-C529B816078C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{58C2299D-A087-4432-AE83-C529B816078C}.Debug|Win32.Build.0 = Debug|Win32
+		{58C2299D-A087-4432-AE83-C529B816078C}.DLL Debug|Win32.ActiveCfg = DLL Debug|Win32
+		{58C2299D-A087-4432-AE83-C529B816078C}.DLL Debug|Win32.Build.0 = DLL Debug|Win32
+		{58C2299D-A087-4432-AE83-C529B816078C}.DLL Release|Win32.ActiveCfg = DLL Release|Win32
+		{58C2299D-A087-4432-AE83-C529B816078C}.DLL Release|Win32.Build.0 = DLL Release|Win32
+		{58C2299D-A087-4432-AE83-C529B816078C}.Release|Win32.ActiveCfg = Release|Win32
+		{58C2299D-A087-4432-AE83-C529B816078C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
